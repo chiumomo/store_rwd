@@ -1121,7 +1121,8 @@ header .brand {
   top: 0;
   left: 0;
   opacity: 0;
-  z-index: 1;
+  z-index: 3;
+  display: flex;
 }
 .fishMoving .fish {
   width: 20%;
