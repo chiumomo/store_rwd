@@ -1121,7 +1121,7 @@ header .brand {
   top: 0;
   left: 0;
   opacity: 0;
-  z-index: 3;
+  z-index: 1;
   display: flex;
 }
 .fishMoving .fish {
